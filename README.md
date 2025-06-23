@@ -7,7 +7,7 @@ React ile geliştirilmiş, kullanıcı dostu basit bir görev yönetim uygulamas
 
 ## Teknolojiler
 
--Vite
+- Vite
 - React (Hooks & Functional Components)
 - JavaScript (ES6+)
 - CSS3 (Flexbox, Grid)
